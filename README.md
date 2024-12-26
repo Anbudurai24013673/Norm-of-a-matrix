@@ -45,7 +45,7 @@ print(ah)
 ![alt text](image.png)
 
 ### 2-Norm of a Matrix
-![alt text](image-1.png)
+![alt text](<Screenshot 2024-12-26 141054.png>)
 
 ### Infinity Norm of a Matrix
 ![alt text](image-2.png)
